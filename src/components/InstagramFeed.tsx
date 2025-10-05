@@ -35,7 +35,7 @@ export default function InstagramFeed() {
           <div className="flex items-center justify-center gap-3 mb-4">
             <Instagram className="w-8 h-8 text-[#D99CA1]" />
             <h2 className="text-4xl md:text-5xl font-bold text-[#6B3B2B]">
-              @vestigescafe
+              @vestiges.cafe
             </h2>
           </div>
           <p className="text-[#CDAF8B] text-lg">
