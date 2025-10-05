@@ -23,7 +23,7 @@ export default function Hero() {
           Artisan Coffee & Patisserie in Paris
         </p>
         <p className="text-lg md:text-xl mb-12 italic opacity-90">
-          Sıcak tatlılar, yavaş kahve ve küçük anlar.
+          Every sip have a story
         </p>
         <button
           onClick={scrollToMenu}
