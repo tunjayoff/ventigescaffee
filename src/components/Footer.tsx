@@ -14,7 +14,7 @@ export default function Footer() {
             </p>
           </div>
 
-          <div className="flex gap-6 justify-center md:justify-start">
+          <div className="flex gap-6 justify-center md:justify-start mt-4 md:mt-0">
             <a
               href="https://instagram.com"
               target="_blank"
