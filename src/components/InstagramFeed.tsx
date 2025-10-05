@@ -61,7 +61,7 @@ export default function InstagramFeed() {
 
         <div className="text-center mt-8">
           <a
-            href="https://instagram.com"
+            href="https://instagram.com/vestiges.cafe"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-[#D99CA1] hover:text-[#c88a90] transition-colors font-medium"
