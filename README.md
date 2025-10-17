@@ -1,6 +1,6 @@
 # Vestiges Café - Artisan Kahve & Pastane Web Sitesi
 
-![Vestiges Café Anasayfa](https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Vestiges Café Anasayfa](home.png)
 
 **Vestiges Café**, Paris'in kalbinde yer alan, artizan tatlılar, özel kahveler ve çiçeklerden ilham alan içecekler sunan şirin bir kafe için tasarlanmış modern ve şık bir web sitesidir. Bu proje, kullanıcıların kafenin atmosferini hissetmelerini, menüyü incelemelerini, galeriye göz atmalarını ve rezervasyon yapmalarını sağlayan tek sayfa (one-page) bir tasarıma sahiptir.
 
