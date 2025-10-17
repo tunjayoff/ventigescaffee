@@ -67,5 +67,5 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ## 👤 Geliştirici
 
--   **Tuncay Off**
+-   **Tunjayoff**
 -   GitHub: [@tunjayoff](https://github.com/tunjayoff)
